@@ -33,7 +33,7 @@ Configure an FTM channel in edge-aligned PWM mode to flash an LED at exactly 1 H
 ---
 
 ## OUTPUT
-
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/647731b9-651c-4f58-b68d-2b7bfe9dcd5a" />
 
 
 
